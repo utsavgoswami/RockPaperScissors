@@ -1,0 +1,36 @@
+/* Applies to the entire page */
+body {
+    background-color: #848ccf;
+}
+
+/* Container Section */
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4.5rem;
+    color: #ffe4e4;
+    /* margin-bottom: 0; */
+}
+
+/* Players */
+.player {
+    display: inline-block;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.player img {
+    width: 15rem;
+    height: 15rem;
+}
+
+h3 {
+    color: #6f4a8e;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 2.5rem;
+}
